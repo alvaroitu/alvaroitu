@@ -6,7 +6,7 @@
 ### - MBA em Gestão de TI
 
 
-## Formação: Concluida
+## Formação: Concluída
 
 ### - Engenharia Cartográfica
 ### - Mestrado em Geofísica
