@@ -2,14 +2,22 @@
 
 ### Formação: Cursando
 
-#### - Ciência da Computação (6° Semestre)
-#### - MBA em Gestão de TI
+#### - Ciência da Computação (7° Semestre)
 
 ### Formação: Concluída
 
 #### - Engenharia Cartográfica
 #### - Mestrado em Geofísica
 #### - Pós-Gradução: Docência do Ensino Superior
+#### - MBA em Gestão de TI
+
+### Experiência Profissional
+
+#### - IBM
+#### - MkNow
+#### - Delogis
+#### - Prospectors
+
 
 ### Página Pessoal
 
