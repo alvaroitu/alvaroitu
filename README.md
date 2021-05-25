@@ -15,7 +15,7 @@
 
 #### - IBM
 #### - MkNow
-#### - Delogis
+#### - Delogic
 #### - Prospectors
 
 
