@@ -1,11 +1,8 @@
 ## Álvaro Augusto Pereira
 
-### Formação: Cursando
+### Formação
 
-#### - Ciência da Computação (7° Semestre)
-
-### Formação: Concluída
-
+#### - Ciência da Computação
 #### - Engenharia Cartográfica
 #### - Mestrado em Geofísica
 #### - Pós-Gradução: Docência do Ensino Superior
@@ -18,10 +15,9 @@
 #### - Delogic
 #### - Prospectors
 
-
 ### Página Pessoal
 
-#### - Página Desenvolvida para mostrar meu trabalho - FRONT-END
+#### - Desenvolvida em angular 
 #### - [Álvaro Itu Page](https://alvaroitu.github.io/)
 
 ### Contato - contato@alvaroitu.com
