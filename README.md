@@ -1,6 +1,6 @@
 # Álvaro Augusto Pereira
 
-### Página Pessoal desenvolvida em angular - [Álvaro Itu Page](https://alvaroitu.github.io/)
+### Página Pessoal - [Álvaro Itu Page](https://alvaroitu.github.io/)
 
 ### Projeto Pessoal - Plataforma de Algoritmos Resolvidos - [algoritmosresolvidos](em construção)
 
@@ -17,7 +17,12 @@
 
 # Experiência Profissional
 
-## * IBM
+## * Centro Universitário Nossa Senhora do Patrocínio - Ceunsp (fev/2022 - atual)
+### + Professor assistente II
+##### Atividades
+- Ministrando aulas nos cursos de Análise e Desenvolvimento de Sistemas, Ciência da Computação e Arquitetura e Urbanismo
+
+## * IBM (dez/2020 - atual) 
 ### + Aplication Developer - DevSecOps
 ##### Atividades
 - Participação em treinamentos em diversas áreas de TI, com ênfase em DevSecOps.
