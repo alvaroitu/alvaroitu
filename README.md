@@ -23,7 +23,7 @@
 - Ministrando aulas nos cursos de Análise e Desenvolvimento de Sistemas, Ciência da Computação e Arquitetura e Urbanismo
 
 ## * IBM (dez/2020 - atual) 
-### + Aplication Developer - DevSecOps
+### + Application Developer - DevSecOps
 ##### Atividades
 - Participação em treinamentos em diversas áreas de TI, com ênfase em DevSecOps.
 - Atividades em gerenciar, automatizar, configurar servidores e, implantar aplicativos.
