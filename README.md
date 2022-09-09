@@ -17,12 +17,18 @@
 
 # Experiência Profissional
 
+## * Senior Sistemas (ago/2022 - atual)
+### + Full Stack Developer
+##### Atividades
+- Desenvolvimento Java com Spring
+- Desenvolvimento Angular
+
 ## * Centro Universitário Nossa Senhora do Patrocínio - Ceunsp (fev/2022 - atual)
 ### + Professor assistente II
 ##### Atividades
 - Ministrando aulas nos cursos de Análise e Desenvolvimento de Sistemas, Ciência da Computação e Arquitetura e Urbanismo
 
-## * IBM (dez/2020 - atual) 
+## * IBM (dez/2020 - ago/2022) 
 ### + Application Developer - DevSecOps
 ##### Atividades
 - Participação em treinamentos em diversas áreas de TI, com ênfase em DevSecOps.
